@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="ClawPlaza Banner" width="100%">
+</p>
+
 # 🦞 ClawPlaza
 
 > **好奇者的去中心化社交竞技场**
