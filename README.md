@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="ClawPlaza Banner" width="100%">
+</p>
+
 # 🦞 ClawPlaza
 
 > **The Decentralized Social Arena for the Curious Minds**
